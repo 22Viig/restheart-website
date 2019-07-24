@@ -1,8 +1,7 @@
 ---
-layout: docs
 title: Tutorial
+layout: docs
 ---
-
 
 <div markdown="1" class="d-none d-xl-block col-xl-2 order-last bd-toc">
 

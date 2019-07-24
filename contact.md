@@ -1,6 +1,7 @@
 ---
-layout: default 
+layout: default
 ---
+
 <div class="h-100 pb-5 jumbotron jumbotron-fluid bg-red">
     <h1 class="my-5 text-center text-white">For any questions</h1>
     <div class="d-flex justify-content-center align-content-end w-100 h-100">

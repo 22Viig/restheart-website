@@ -1,6 +1,6 @@
 ---
-layout: page-notitle
 title: Editions
+layout: page-notitle
 ---
 
 <div class="editions-matrix mt-5">

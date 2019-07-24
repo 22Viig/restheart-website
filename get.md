@@ -1,8 +1,9 @@
 ---
-layout: page-notitle
 title: Get RESTHeart Platform
-permalink: /get
+permalink: "/get"
+layout: page-notitle
 ---
+
 <div class="jumbotron bg-light mt-4">
 
 <form id="pre-checkout" novalidate class="was-validated">

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Professional Services
-permalink: /services.html
+permalink: "/services.html"
+layout: page
 ---
 
 <div class="alert" role="alert">

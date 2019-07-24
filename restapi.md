@@ -1,7 +1,7 @@
 ---
-layout: page-notitle
 title: REST API for MongoDB
-permalink: /restapi.html
+permalink: "/restapi.html"
+layout: page-notitle
 ---
 
 # REST API for MongoDB

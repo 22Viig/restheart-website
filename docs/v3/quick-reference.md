@@ -1,10 +1,10 @@
 ---
-layout: docs
 title: Quick Reference
-permalink: /learn/quick-reference.html
+permalink: "/learn/quick-reference.html"
+layout: docs
 features:
 - href: features/dbs-collections.html
-  title: DB and Collections  
+  title: DB and Collections
   anchor: db-coll
 - href: features/documents.html
   title: Documents

@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Frequently Asked Questions
+layout: default
 ---
+
 <div class="container-fluid imgHover">
     <div class="row flex-xl-nowrap">
 

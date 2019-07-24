@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Support packages
-permalink: /support-packages.html
+permalink: "/support-packages.html"
+layout: page
 ---
 
 <section class="pricing slice color1" style="padding:0">

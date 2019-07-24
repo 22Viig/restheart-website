@@ -1,6 +1,6 @@
 ---
+title: 'Use Case: Content Management'
 layout: article
-title: "Use Case: Content Management"
 ---
 
 {: .text-justify .mt-5}
